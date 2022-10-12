@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kaiyuan Cui
 - 👀 I’m a student at the University of Melbourne, majoring in Computer Science and Data Science.
-- 🌱 I’m currently learning Java, Haskell, and more!
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Java and Haskell.
+- 💞️ I’m looking to collaborate on any projects using Python, Java, or C.
 - 📫 How to reach me: kevincui2002@gmail.com
 
 <!---
