@@ -1,8 +1,6 @@
 # Kaiyuan Cui  
 
-PhD student at the University of Melbourne working on **Trustworthy AI** — currently focused on adversarial attacks and safety alignment for vision-language models.
-
-Our paper [UltraBreak](https://github.com/kaiyuanCui) on universal jailbreak attacks for VLMs was accepted at **ICLR 2026**.
+PhD student at the University of Melbourne working on **Trustworthy AI**, interested in adversarial attack/defence, prompt injection, and RAG.
 
 Open to collaborations on adversarial ML and AI safety. Feel free to reach out!
 
